@@ -1,6 +1,6 @@
 # TECH4: Optimization & Network Design
 
-
+## Quick start : **[hom_exam_report.pdf](./hom_exam_report.pdf)**
 
 ## Project Overview
 
